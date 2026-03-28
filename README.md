@@ -24,7 +24,9 @@ How to run
 git clone https://github.com/Celsius273-web/Transformer_Encoder_Block_from_Scratch
 
 cd Transformer_Encoder_Block_from_Scratch
+
 Create Python venv - best to use python 3.11
 
 pip install -r requirements.txt
+
 jupyter notebook notebook/test_encoder_block.ipynb
