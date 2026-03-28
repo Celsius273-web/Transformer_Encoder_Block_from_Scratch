@@ -19,8 +19,12 @@ Heat Map using MatplotLib showing how the encoder maps relationships.
 
 <img width="590" height="490" alt="image" src="https://github.com/user-attachments/assets/008234eb-0ab3-4cf2-8974-ce4bb4646984" />
 
+
 How to run
-git clone https://github.com/YOURUSERNAME/YOURREPONAME
-cd YOURREPONAME
+git clone https://github.com/Celsius273-web/Transformer_Encoder_Block_from_Scratch
+
+cd Transformer_Encoder_Block_from_Scratch
+Create Python venv - best to use python 3.11
+
 pip install -r requirements.txt
 jupyter notebook notebook/test_encoder_block.ipynb
