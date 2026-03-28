@@ -6,9 +6,13 @@ View the full notebook with outputs here: https://htmlpreview.github.io/?https:/
 What this implements
 
 Scaled dot-product attention
+
 Multi-head self-attention with Q, K, V projections
+
 Residual connections and layer normalization
+
 Feed-forward network with GELU activation
+
 Numerical validation against PyTorch's TransformerEncoderLayer
 
 Result:
