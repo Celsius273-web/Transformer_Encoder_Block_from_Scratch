@@ -1,4 +1,5 @@
-Project: Transformer Encoder Block from Scratch
+Transformer Encoder Block from Scratch:
+
 A NumPy implementation of a transformer encoder block validated against PyTorch with a 0.000000383 mean absolute error.
 View the full notebook with outputs here: https://htmlpreview.github.io/?https://github.com/Celsius273-web/Transformer_Encoder_Block_from_Scratch/blob/main/notebook/test_encoder_block.html
 
